@@ -22,7 +22,7 @@ A versatile Discord bot that enables communication through either a specific ser
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/discord-chat-bot.git
+   git clone https://github.com/Xcef-1/Discord-Chat-by-Bot.git
    cd discord-chat-bot
    ```
 
